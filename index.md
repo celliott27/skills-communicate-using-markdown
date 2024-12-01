@@ -1,8 +1,5 @@
-# This is an <h1> header
-## This is an <h2> header
-### This is an <h3> header
-#### This is an <h4> header
-##### This is an <h5> header
-###### This is an <h6> header
+# This is an h1 header
+###### Le Hoshino
 
-###### I added headers of all sizes
+![Image of Hoshino](https://static.wikitide.net/bluearchivewiki/c/c2/Hoshino_%28Swimsuit%29.png?version=25af5c07790b064540722a394002a255)
+
